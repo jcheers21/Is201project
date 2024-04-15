@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(249, 246, 241);
+    color: rgb(62, 48, 29);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italics{
+    font-style: italic;
+}
+.border{
+    border: 3px dotted black;
+    padding: 4px;
+    width: 200px;
+
+}
+.defaultdiv {
+    position: absolute;
+    border: solid 2px black;
+}
+ .intro {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 350px;
+} 
+
+
+.decision {
+    top: 345px;
+    left: 5px;
+    width: 385px;
+    height: 300px;
+    padding: 5px;
+
+}
+
+.nailschool {
+    top: 345px;
+    left: 410px;
+    right: 410px;
+    height: 300px;
+    padding: 5px;
+}
+
+.business {
+    top: 345px;
+    right: 5px;
+    width: 385px;
+    height: 300px;
+    padding: 5px;
+}
+
+.conclusion{
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 90px;
+
+}
